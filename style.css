@@ -1,0 +1,33 @@
+body { 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(to right, #0f2027,#203a43, #2c5364);
+    color: white;
+    padding: 80px 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: gold;
+    color: black;
+    text-decoration: none;
+}
+
+section { 
+    padding: 80px 20px;
+}
+
+.project {
+    background: #f4f4f4;
+    padding: 25px;
+    margin: 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    max-width: 500px;
+}
